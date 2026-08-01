@@ -1,16 +1,63 @@
-## Hi there 👋
+<p align="center">
+  <img src="banner.png" width="100%" alt="Stozeks Banner">
+</p>
 
-<!--
-**Stozeks/Stozeks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Alexander (Stozeks)</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+Minecraft Server Developer • Java • Paper
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+Building <b>AnarchyRuleEngine</b>
+</p>
+
+---
+
+# 👋 About
+
+I'm a Minecraft server developer focused on building scalable and modular systems for Paper servers.
+
+Currently, I'm developing **AnarchyRuleEngine** — a custom engine that powers PvP mechanics, custom items, combat systems and region interactions.
+
+---
+
+# 🚀 Featured Project
+
+## AnarchyRuleEngine
+
+A modular engine designed for high-performance anarchy servers.
+
+### Current Features
+
+- ⚔ Combat System
+- 🟣 Custom PvP Items
+- 🛡 WorldGuard Integration
+- ⚙ Rule Engine
+- 🔥 Modular Architecture
+
+---
+
+# 🛠 Tech Stack
+
+- Java
+- Maven
+- Paper API
+- WorldGuard
+- Git
+- IntelliJ IDEA
+
+---
+
+# 📈 Current Focus
+
+- Improving PvP mechanics
+- Expanding the custom item system
+- Optimizing performance
+- Building new gameplay mechanics
+
+---
+
+<p align="center">
+Building systems, not just plugins.
+</p>
