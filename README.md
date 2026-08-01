@@ -2,43 +2,58 @@
   <img src="banner.png" width="100%" alt="Stozeks Banner">
 </p>
 
-<h1 align="center">Alexander (Stozeks)</h1>
+<h1 align="center">
+Alexander (Stozeks)
+</h1>
 
 <p align="center">
-Minecraft Server Developer • Java • Paper
+Engine Developer • Java • Paper
 </p>
 
 <p align="center">
-Building <b>AnarchyRuleEngine</b>
+Building gameplay systems with clean architecture.
 </p>
 
 ---
 
-# 👋 About
+# About
 
-I'm a Minecraft server developer focused on building scalable and modular systems for Paper servers.
+I design scalable gameplay systems for Paper servers.
 
-Currently, I'm developing **AnarchyRuleEngine** — a custom engine that powers PvP mechanics, custom items, combat systems and region interactions.
+Currently building **AnarchyRuleEngine** — a modular engine focused on combat mechanics, custom items, region interaction and server performance.
 
----
-
-# 🚀 Featured Project
-
-## AnarchyRuleEngine
-
-A modular engine designed for high-performance anarchy servers.
-
-### Current Features
-
-- ⚔ Combat System
-- 🟣 Custom PvP Items
-- 🛡 WorldGuard Integration
-- ⚙ Rule Engine
-- 🔥 Modular Architecture
+I enjoy turning complex gameplay ideas into maintainable and extensible code.
 
 ---
 
-# 🛠 Tech Stack
+# Current Project
+
+## ⚡ AnarchyRuleEngine
+
+A modular engine powering an anarchy server.
+
+### Implemented
+
+- Combat System
+- Combat Logging
+- Custom Items
+- Plast
+- Trap
+- Beacon Pulse
+- WorldGuard Integration
+- Rule Engine
+- Cooldown Manager
+
+### In Progress
+
+- Region Protection
+- Events Module
+- Economy Integration
+- Statistics System
+
+---
+
+# Tech Stack
 
 - Java
 - Maven
@@ -49,15 +64,15 @@ A modular engine designed for high-performance anarchy servers.
 
 ---
 
-# 📈 Current Focus
+# Philosophy
 
-- Improving PvP mechanics
-- Expanding the custom item system
-- Optimizing performance
-- Building new gameplay mechanics
+> Build systems that are easy to extend,
+> not code that is easy to write.
 
 ---
 
 <p align="center">
-Building systems, not just plugins.
+
+*"Good architecture is invisible until you need to change something."*
+
 </p>
