@@ -1,78 +1,83 @@
-<p align="center">
-  <img src="banner.png" width="100%" alt="Stozeks Banner">
-</p>
+<div align="center">
 
-<h1 align="center">
-Alexander (Stozeks)
-</h1>
+# Alexander (Stozeks)
 
-<p align="center">
-Engine Developer • Java • Paper
-</p>
+```java
+Java Developer
+```
 
-<p align="center">
-Building gameplay systems with clean architecture.
-</p>
+Building scalable backend systems with clean architecture.
+
+**Java • Paper • Bukkit • Git • Maven • IntelliJ IDEA**
+
+</div>
 
 ---
 
-# About
+## ⚙️ Stack
 
-I design scalable gameplay systems for Paper servers.
+<table>
+<tr>
+<td>
 
-Currently building **AnarchyRuleEngine** — a modular engine focused on combat mechanics, custom items, region interaction and server performance.
+### Languages
+- ☕ Java
 
-I enjoy turning complex gameplay ideas into maintainable and extensible code.
+</td>
+<td>
 
----
+### Platforms
+- 📄 Paper
+- 🧩 Bukkit API
 
-# Current Project
+</td>
+</tr>
 
-## ⚡ AnarchyRuleEngine
+<tr>
+<td>
 
-A modular engine powering an anarchy server.
+### Tools
+- 🌿 Git
+- 🐙 GitHub
+- 📦 Maven
+- 💡 IntelliJ IDEA
 
-### Implemented
+</td>
+<td>
 
-- Combat System
-- Combat Logging
-- Custom Items
-- Plast
-- Trap
-- Beacon Pulse
-- WorldGuard Integration
-- Rule Engine
-- Cooldown Manager
+### Focus
+- 🏗️ System Architecture
+- ⚡ Performance
+- 🧹 Clean Code
+- 🔧 Modular Design
 
-### In Progress
-
-- Region Protection
-- Events Module
-- Economy Integration
-- Statistics System
-
----
-
-# Tech Stack
-
-- Java
-- Maven
-- Paper API
-- WorldGuard
-- Git
-- IntelliJ IDEA
+</td>
+</tr>
+</table>
 
 ---
 
-# Philosophy
+## 🚀 What I Build
 
-> Build systems that are easy to extend,
-> not code that is easy to write.
+- Backend systems
+- Modular software
+- Gameplay frameworks
+- Server-side architecture
+- Long-term maintainable projects
 
 ---
 
-<p align="center">
+## 📚 Currently Exploring
 
-*"Good architecture is invisible until you need to change something."*
+- Advanced Java
+- High-performance server software
+- Scalable plugin ecosystems
+- Software architecture patterns
 
-</p>
+---
+
+<div align="center">
+
+*"Build systems that are easy to extend, not easy to rewrite."*
+
+</div>
