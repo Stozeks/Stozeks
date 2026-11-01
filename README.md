@@ -1,44 +1,17 @@
-# Alexander (Stozeks)
+<div align="center">
 
-`Software Developer`
+# STOZEKS
 
-Building modular systems, developer tools and server-side software.
+**Software Developer · Digital Systems Creator**
 
-**Java • JavaScript • Paper • Bukkit • Git • Maven • IntelliJ IDEA**
+*I don't just write code. I build systems.*
 
----
+<img src="./orbital-profile.svg" alt="STOZEKS Orbital Interface — software development specialties in a cosmic scene" width="100%" />
 
-## ⚙️ Stack
+<sub>WEB DEVELOPMENT · UI/UX DESIGN · ENGINE DEVELOPMENT · SOFTWARE ENGINEERING · BACKEND SYSTEMS · AUTOMATION</sub>
 
-| Languages | Platforms |
-|---|---|
-| ☕ Java | 📄 Paper |
-| 🟨 JavaScript | 🧩 Bukkit API |
-| 🎨 CSS | 🌐 Browser Extensions |
+<br/><br/>
 
-| Tools | Focus |
-|---|---|
-| 🌿 Git | 🏗️ System Architecture |
-| 🐙 GitHub | ⚡ Performance |
-| 📦 Maven | 🧹 Clean Code |
-| 💡 IntelliJ IDEA | 🔧 Modular Design |
+[![GitHub](https://img.shields.io/badge/GitHub-Stozeks-101827?style=flat-square&logo=github&logoColor=white)](https://github.com/Stozeks)
 
----
-
-## 🚀 What I Build
-
-- Server-side systems
-- Modular software
-- Minecraft infrastructure
-- Browser extensions
-- Developer & moderation tools
-
----
-
-## 📚 Currently Exploring
-
-- Advanced Java
-- JavaScript
-- Browser extension development
-- High-performance server software
-- Software architecture
+</div>
