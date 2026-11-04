@@ -1,44 +1,52 @@
 <div align="center">
 
-<br/>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=100&lines=STOZEKS;Software+Developer;Digital+Systems+Creator;I+build+systems." alt="Typing SVG" />
-</div>
-<br/>
+<!-- Исправленная анимация печатающегося текста -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=100&lines=STOZEKS;Software+Developer;Digital+Systems+Creator;I+build+systems." alt="Typing SVG" />
 
 ---
 
 ### 👨‍💻 ABOUT ME
 
-**Java Developer** 🟧 Building scalable systems and gameplay frameworks for **Minecraft Paper servers**. 
-Focused on clean architecture, performance, and seamless user experiences. Based in Bulgaria, Sofia 🇧🇬.
+**Java Developer** 🟧 Building scalable systems and gameplay frameworks for **Minecraft Paper servers**. Focused on clean architecture, performance, and seamless user experiences. Based in Bulgaria, Sofia 🇧🇬.
 
 <br/>
 
 ### 🛠 CORE COMPETENCIES
 
-<table align="center" border="0" cellspacing="15" cellpadding="15" bgcolor="#0D1117" style="border-radius: 10px;">
+<!-- Аккуратная и строгая сетка без громоздких плашек -->
+<table align="center" border="0" cellspacing="0" cellpadding="10">
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/01_CREATION-Web_Development-0D1117?style=for-the-badge&logo=code&logoColor=00E5FF" />
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/01-CREATION-0D1117?style=flat-square&logoColor=00E5FF" /> <br/>
+      <b>Web Development</b> <br/>
+      <sub>Websites & digital platforms</sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/02_EXPERIENCE-UI_UX_Design-0D1117?style=for-the-badge&logo=figma&logoColor=00E5FF" />
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/02-EXPERIENCE-0D1117?style=flat-square&logoColor=00E5FF" /> <br/>
+      <b>UI / UX Design</b> <br/>
+      <sub>Interfaces & visual systems</sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/03_ARCHITECTURE-Engine_Dev-0D1117?style=for-the-badge&logo=java&logoColor=00E5FF" />
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/03-ARCHITECTURE-0D1117?style=flat-square&logoColor=00E5FF" /> <br/>
+      <b>Engine Development</b> <br/>
+      <sub>Modular engines & frameworks</sub>
     </td>
   </tr>
   <tr>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/04_ENGINEERING-Software_Eng-0D1117?style=for-the-badge&logo=git&logoColor=00E5FF" />
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/04-ENGINEERING-0D1117?style=flat-square&logoColor=00E5FF" /> <br/>
+      <b>Software Engineering</b> <br/>
+      <sub>Applications & developer tools</sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/05_INFRASTRUCTURE-Backend_Systems-0D1117?style=for-the-badge&logo=server&logoColor=00E5FF" />
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/05-INFRASTRUCTURE-0D1117?style=flat-square&logoColor=00E5FF" /> <br/>
+      <b>Backend Systems</b> <br/>
+      <sub>Server logic & integrations</sub>
     </td>
-    <td align="center" width="200">
-      <img src="https://img.shields.io/badge/06_WORKFLOWS-Automation-0D1117?style=for-the-badge&logo=githubactions&logoColor=00E5FF" />
+    <td align="center" width="250">
+      <img src="https://img.shields.io/badge/06-WORKFLOWS-0D1117?style=flat-square&logoColor=00E5FF" /> <br/>
+      <b>Automation</b> <br/>
+      <sub>Smart tools & workflows</sub>
     </td>
   </tr>
 </table>
@@ -47,24 +55,29 @@ Focused on clean architecture, performance, and seamless user experiences. Based
 
 ### 💻 TECH STACK
 
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/PaperMC-0D1117?style=for-the-badge&logo=minecraft&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Bukkit-0D1117?style=for-the-badge&logo=minecraft&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00E5FF" />
+<!-- Единый красивый набор иконок + кастомные бейджи для Minecraft -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,git,css" alt="Tech Stack" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/PaperMC-0D1117?style=flat-square&logo=minecraft&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/Bukkit-0D1117?style=flat-square&logo=minecraft&logoColor=00E5FF" />
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=00E5FF" />
+</p>
 
-<br/>
 <br/>
 
 ---
 
-<br/>
-<br/>
+### ⚡ SYSTEM STATS
 
----
-
+<div align="center">
+  <!-- Твоя карточка со стриком (она работает отлично) -->
+  <img src="https://streak-stats.demolab.com?user=StozekS&theme=dark&background=0D1117&border=0D1117&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakNum=a9b1d6&sideNums=a9b1d6&currStreakLabel=00E5FF&sideLabels=a9b1d6&dates=a9b1d6" height="180" alt="GitHub Streak" />
+  
+  <!-- Новая стабильная карточка языков -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StozekS&theme=github_dark" height="180" alt="Top Languages" />
+</div>
 ### 🔗 CONTACT & NETWORK
 
 <p align="center">
