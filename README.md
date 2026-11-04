@@ -78,6 +78,7 @@
   <!-- Новая стабильная карточка языков -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=StozekS&theme=github_dark" height="180" alt="Top Languages" />
 </div>
+
 ### 🔗 CONTACT & NETWORK
 
 <p align="center">
