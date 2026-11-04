@@ -1,15 +1,10 @@
 <div align="center">
 
-# S T O Z E K S
-
-**Software Developer · Digital Systems Creator**
-
-*I don’t just write code. I build systems.*
-
 <br/>
 
-<img src="./orbital-profile-smooth.svg" alt="STOZEKS Orbital Interface" width="100%" />
-
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&height=100&lines=STOZEKS;Software+Developer;Digital+Systems+Creator;I+build+systems." alt="Typing SVG" />
+</div>
 <br/>
 
 ---
