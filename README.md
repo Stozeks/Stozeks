@@ -9,7 +9,7 @@
 
 **Java Developer** 🟧 with a strong focus on scalable systems and gameplay frameworks for **Minecraft Paper servers**. Expanding my expertise into **Web Development**, **UI/UX Design**, and **Automation tools**. 
 
-I combine backend logic with clean, functional interfaces to build seamless digital experiences. Based in Bulgaria, Sofia 🇧🇬.
+I combine backend logic with clean, functional interfaces to build seamless digital experiences.
 
 <br/>
 
